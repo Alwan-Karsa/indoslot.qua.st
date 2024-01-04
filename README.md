@@ -1,0 +1,1 @@
+# indoslot.qua.st
